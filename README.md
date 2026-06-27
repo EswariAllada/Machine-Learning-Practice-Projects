@@ -59,21 +59,6 @@ The second notebook covers more advanced Machine Learning techniques:
 
 This repository documents my Machine Learning learning journey through hands-on implementation of important ML algorithms. Each notebook includes data preprocessing, model building, prediction, evaluation, and visualization to strengthen practical understanding.
 
----
-
-##  Future Updates
-
-This repository will continue to grow as I learn more Machine Learning and Deep Learning concepts, including:
-
-- Gradient Boosting
-- XGBoost
-- AdaBoost
-- Time Series Forecasting
-- Recommendation Systems
-- Deep Learning with TensorFlow & PyTorch
-
----
-
 ##  Author
 
 **Eswari Allada**
